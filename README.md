@@ -1,1 +1,1 @@
-# Capstone-Project-1-HTML [Udemy]
+# Capstone Project 1 (HTML) [Udemy]
